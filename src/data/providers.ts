@@ -14,7 +14,7 @@ export const providers: Provider[] = [
     name: "La Loma",
     logo: "/productos/laloma/logo la loma.jpg",
     description: "Tradición y calidad en cada producto. Especialistas en bases y mezclas para helados artesanales.",
-    website: "/productos/campoterra/laloma.com.mx",
+    website: "laloma.com.mx",
     specialties: ["Bases para Helado", "Mezclas Premium", "Sabores Tradicionales", "Productos Lácteos"]
   },
   {
